@@ -1,7 +1,7 @@
 {
   "name": "text-trim",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Sass mixin for adding vertical trim to text",
   "keywords": [],
   "author": "Leann Gamboa",
   "license": "ISC"
