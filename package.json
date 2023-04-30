@@ -1,5 +1,5 @@
 {
-  "name": "text-trim",
+  "name": "@ucsddesignco/text-trim",
   "version": "1.0.0",
   "description": "A Sass mixin for adding vertical trim to text",
   "keywords": [],
